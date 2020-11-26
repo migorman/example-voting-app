@@ -1,2 +1,2 @@
-This is worker java app \n
+This is worker java app
 Setting webhook
